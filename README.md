@@ -1,1 +1,1 @@
-# Mod-3-Project-Ogara2
+# Hypothesis-Testing-mod3-project
